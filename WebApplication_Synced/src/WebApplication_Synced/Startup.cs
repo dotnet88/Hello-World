@@ -19,6 +19,9 @@ namespace WebApplication_Synced
             var builder = new ConfigurationBuilder()
                 .AddJsonFile("appsettings.json")
                 .AddEnvironmentVariables();
+                
+                //asdasd asdasdasd
+                //asdasda szdfasda
 
             if (env.IsDevelopment())
             {
