@@ -15,6 +15,7 @@ namespace WebApplication_Synced
         public Startup(IHostingEnvironment env)
         {
             // Set up configuration sources. thanks for the info 
+            //asdasdasdas adasd
             var builder = new ConfigurationBuilder()
                 .AddJsonFile("appsettings.json")
                 .AddEnvironmentVariables();
