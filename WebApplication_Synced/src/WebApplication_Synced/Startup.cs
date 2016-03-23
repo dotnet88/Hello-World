@@ -26,7 +26,7 @@ namespace WebApplication_Synced
             }
             Configuration = builder.Build();
         }
-
+// i don't know this
         public IConfigurationRoot Configuration { get; set; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
